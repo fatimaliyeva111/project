@@ -13,6 +13,6 @@ a:hover {
 #demo .box {
   height: 800px;
 }
-#demo .box .minibox {
+#demo .box .minibox h2 {
   font-size: 20px;
 }/*# sourceMappingURL=style.css.map */
