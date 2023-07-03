@@ -10,9 +10,6 @@ a:hover {
   color: black;
 }
 
-#demo .box {
-  height: 800px;
-}
-#demo .box .minibox h2 {
-  font-size: 20px;
+#start .textbox h2 {
+  font-size: 15px;
 }/*# sourceMappingURL=style.css.map */
